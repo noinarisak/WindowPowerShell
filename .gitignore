@@ -1,0 +1,7 @@
+.*
+!.gitignore
+*~
+*.sw[a-p]
+
+# KDE
+.directory

@@ -1,0 +1,1 @@
+gci $psscriptroot\*.ps1 | % { . $_.FullName }
